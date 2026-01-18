@@ -56,6 +56,23 @@ cd Gentlerain.ai-Clone
 
 ---
 
+## 🤖 AI Usage Disclosure
+
+AI tools were used responsibly during development for:
+
+- Debugging CSS and GSAP animation issues
+- Improving code structure and readability
+- Writing documentation (README)
+- Understanding mobile responsiveness issues
+
+AI tools used:
+
+- ChatGPT (OpenAI)
+
+> All final implementation decisions, code integration, and debugging were done manually.
+
+---
+
 ## 👤 Author
 
 * Sahil Ahmed
