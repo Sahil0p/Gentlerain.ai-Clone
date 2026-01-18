@@ -66,7 +66,7 @@ var part2 = gsap.timeline({
     start:"10% 100%",
     end:"90% 0%",
     scrub: true,
-    // markers: true,
+
     duration: 1,
   }
 });
