@@ -5,9 +5,9 @@ This project is a pixel-perfect clone of Gentlerain.ai, a visually stunning and 
 ---
 
 ## 🚀 Live Demo
-```
-👉 [Gentlerain.ai Clone](https://sahil0p.github.io/Gentlerain.ai-Clone/)
-```
+
+- 👉 [Gentlerain.ai Clone](https://sahil0p.github.io/Gentlerain.ai-Clone/)
+
 
 ---
 
