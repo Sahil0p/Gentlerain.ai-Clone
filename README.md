@@ -35,10 +35,14 @@ This project serves as an excellent portfolio piece, showcasing expertise in rep
 ---
 
 ## 🛠️ Setup & Installation
-Clone the repository:
-`git clone https://github.com/Sahil0p/Gentlerain.ai-Clone`
-Navigate to the project directory:
-`cd Gentlerain.ai-Clone`
+### Clone the repository:
+```
+git clone https://github.com/Sahil0p/Gentlerain.ai-Clone
+```
+### Navigate to the project directory:
+```
+cd Gentlerain.ai-Clone
+```
 > Open with Live Server to view the output.
 
 ---
