@@ -2,6 +2,11 @@
 ## 🌟 Overview
 This project is a pixel-perfect clone of Gentlerain.ai, a visually stunning and user-centric website that earned recognition on Awwwards for its design excellence. The goal of this project is to recreate the aesthetic, functionality, and interactivity of the original site, serving as a learning exercise in advanced web development and design principles.
 
+🚀 Live Demo
+
+👉 [Gentlerain.ai Clone](https://sahil0p.github.io/Gentlerain.ai-Clone/)
+
+
 ## 🚀 Features
 * Dynamic Animations: Smooth transitions and captivating animations using modern libraries such as GSAP and Lenis.
 * Canvas Elements: Interactive visuals crafted with HTML5 Canvas for a rich user experience.
